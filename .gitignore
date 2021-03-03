@@ -10,7 +10,7 @@ features/*.pkl
 features/*.pickle
 features/importances/*.png
 logs/*.pickle
-models/*.pickle
+models/*
 
 # Created by https://www.gitignore.io/api/macos,python,jupyternotebook
 # Edit at https://www.gitignore.io/?templates=macos,python,jupyternotebook
